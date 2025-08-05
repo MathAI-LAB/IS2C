@@ -4,7 +4,7 @@
 <b> Probability-Polarized Optimal Transport for Unsupervised Domain Adaptation </b> <br/>
 ![alt text](./image_PPOT.png) <br/>
 Cheng-Jun Guo, [Chuan-Xian Ren*](https://scholar.google.com/citations?user=nWsPNkQAAAAJ&hl=zh-CN), [You-Wei Luo](https://scholar.google.com/citations?user=n9xRWGsAAAAJ&hl=zh-CN), [Hong Yan](https://scholar.google.com.hk/citations?user=oKwuCfAAAAAJ&hl=zh-CN)<br/>
-This is the pytorch demo code for Partial Domain Adaptation via Importance Sampling-based Shift Correction (TIP 2025) | [paper](10.1109/TIP.2025.3593115).<br/>
+This is the pytorch demo code for Partial Domain Adaptation via Importance Sampling-based Shift Correction (TIP 2025) | [paper](https://ieeexplore.ieee.org/document/11107265).<br/>
 
 ## Requirements:
 python == 3.6.13 <br/>
