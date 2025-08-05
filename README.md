@@ -3,8 +3,8 @@
 This is the pytorch demo code for Partial Domain Adaptation via Importance Sampling-based Shift Correction (TIP 2025) | [paper](https://ieeexplore.ieee.org/document/11107265).<br/>
 
 ## Requirements:
-python == 3.6 <br/>
-torch == 1.10.0 <br/>
+python = 3.6 <br/>
+pytorch == 1.10.0 <br/>
 torchvision == 0.11.0 <br/>
 torchaudio == 0.10.0 <br/>
 cudatoolkit == 11.3.1 <br/>
